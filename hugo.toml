@@ -1,0 +1,17 @@
+baseURL = 'https://www.soulsecure.io/'
+locale = 'en-us'
+title = "soulsecure by aaron d'amico"
+theme = 'PaperMod'
+
+[params.profileMode]
+    enabled = true
+    title = "Hi, I'm Aaron D'Amico"
+    subtitle = "I am a writer, hacker, US Marine."
+
+# [[params.profileMode.buttons]]
+#     name = "Read my Blog"
+#     url = "/posts"
+
+[params]
+    defaultTheme = "auto"
+    copyright = "Written by aaron d'amico. all rights reserved."
