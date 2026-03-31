@@ -8,9 +8,9 @@ theme = 'PaperMod'
     title = "Hi, I'm Aaron D'Amico"
     subtitle = "I am a writer, hacker, US Marine."
 
-# [[params.profileMode.buttons]]
-#     name = "Read my Blog"
-#     url = "/posts"
+[[params.profileMode.buttons]]
+    name = "Read my Blog"
+    url = "/posts"
 
 [params]
     defaultTheme = "auto"
