@@ -10,6 +10,7 @@ I have been living at the intersection of machine learning and cyber security fo
 
 
 Here is a little something I have been working on. It is the basis of an agentic penetration tester. I implemented it as a MCP server so it works with any cli/model you want to use. The agent runs the tools and recommends follow-on tools to run. The MCP server provides the tools available, keeps the agent focused on the task and hand, and runs sub agents when neccessary. In this one minute demo, you can see the agent:
+
 - decided to write a python script to extract a cookie from an auth session
 - then using the tools/decision tree provided by the MCP server, begins testing the web app for XSS bugs.
 
